@@ -20,7 +20,7 @@ export default async function BlogPost({searchParams}: {searchParams: Promise<{c
       <nav className="container mx-auto px-4 py-8">
         <div className="flex items-center justify-between">
           <Link href="/" className="text-2xl font-bold">
-            HotCoffee
+            Blog Page
           </Link>
 
           <div className="hidden md:flex items-center space-x-8">
