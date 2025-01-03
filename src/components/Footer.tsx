@@ -68,9 +68,9 @@ function Footer() {
         </div>
       </div>
       <div className="mt-12 pt-8 border-t text-center text-sm text-gray-600">
-        © 2024 Nazia Imran
+        © 2025 Nazia Imran
         <span className="ml-2">
-          Made with ❤️ in Pakistan
+          All Copy Rights Reserved
         </span>        
       </div>
     </div>
